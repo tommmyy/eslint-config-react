@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-react",
+  "version": "1.0.0",
+  "description": "ESLint config for React.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommmyy/eslint-config-react.git"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "proprietary",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "3.3.1",
+    "babel-eslint": "6.1.2",
+    "eslint-plugin-babel": "3.3.0",
+    "eslint-plugin-react": "6.1.1"
+  },
+  "devDependencies": {
+    "eslint": "3.3.1",
+    "babel-eslint": "6.1.2",
+    "eslint-plugin-babel": "3.3.0",
+    "eslint-plugin-react": "6.1.1"
+  }
+}
